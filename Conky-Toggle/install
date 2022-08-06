@@ -1,0 +1,4 @@
+#!/bin/bash
+
+sudo cp conkytoggle.sh /usr/bin
+sudo cp conky-toggle.desktop /usr/share/applications
